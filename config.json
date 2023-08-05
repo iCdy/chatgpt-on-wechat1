@@ -3,9 +3,7 @@
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "hot_reload": false,
-  "single_chat_prefix": [
-    ""
-  ],
+  "single_chat_prefix": "",
   "single_chat_reply_prefix": "",
   "group_chat_prefix": [
     "@lan&cdy"
@@ -13,9 +11,7 @@
   "group_name_white_list": [
     "ALL_GROUP"
   ],
-  "group_chat_in_one_session": [
-    ""
-  ],
+  "group_chat_in_one_session": "",
   "image_create_prefix": [
     "画",
     "图"
